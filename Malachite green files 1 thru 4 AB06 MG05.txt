@@ -1,0 +1,111 @@
+Validating The DH 4.0 v4 Spectrometer using - MALACHITE GREEN (Oxalate)
+Aug 7 2016
+
+Here is an excerpt from a study done by The National Center for Biotechnology Information:
+“the wide range of toxicological effects of malachite green (MG), a triarylmethane dye on various fish species and certain mammals. MG is widely used in aquaculture as a parasiticide and in food, health, textile and other industries for one or the other purposes. It controls fungal attacks, protozoan infections and some other diseases caused by helminths on a wide variety of fish and other aquatic organisms. However, the dye has generated much concern regarding its use, due to its reported toxic effects. The toxicity of this dye increases with exposure time, temperature and concentration. It has been reported to cause carcinogenesis, mutagenesis, chromosomal fractures, teratogenicity and respiratory toxicity. Histopathological effects of MG include multi-organ tissue injury. 
+Significant alterations occur in biochemical parameters of blood in MG exposed fish. Residues of MG and its reduced form, leucomalachite green have been reported from serum, liver, kidney, muscles and other tissues as also from eggs and fry. Toxicity occurs in some mammals, including organ damage, mutagenic, carcinogenic and developmental abnormalities. However, despite the large amount of data on its toxic effects, MG is still used as a parasiticide in aquaculture and other industries. It is concluded that the potential of alternative parasiticides, like humic acid, chlorine dioxide and Pyceze, should be explored to replace MG. Until then, MG should be used with extreme care at suitable concentrations and at times when the temperature is low. Removal of residual MG in treatment ponds should also be considered.”
+Although I did this study for the purposes of validating my spectrometers quality and analytical performance, as it relates to a known standard (The Oregon Medical Laser Center,) I wanted to bring a bit of awareness to compounds that we may work with on a daily basis, and what impact they may actually have on our environment if handled or disposed of improperly.
+With this in mind, Malachite green is traditionally used as a dye. Millions of kilograms of MG and related triarylmethane dyes are produced annually for this purpose.
+MG is active against the oomycete Saprolegnia, which infects fish eggs in commercial aquaculture, MG has been used to treat Saprolegnia and is used as an antibacterial. It is a very popular treatment againstIchthyophthirius multifiliis in freshwater aquaria. The principal metabolite, LMG, is found in fish treated with malachite green, and this finding is the basis of controversy and government regulation. 
+MG has frequently been used to catch thieves and pilferers. The bait, usually money, is sprinkled with the anhydrous powder. Anyone handling the contaminated money will find that on upon washing the hands, a green stain on the skin that lasts for several days will result.
+Numerous niche applications exploit the intense color of MG. It is used as a biological stain for microscopic analysis of cell biology and tissue samples. In the Gimenez staining method, basic fuchsin stains bacteria red or magenta, and malachite green is used as a blue-green counterstain. Malachite green is also used in endospore staining, since it can directly stain endospores within bacterial cells; here a safranin counterstain is often used. Malachite green can also be used as a saturable absorber dye lasers, or as a pH indicator between pH 0.2–1.8. However, this use is relatively rare. Leuco-malachite green (LMG) is used as a detection method for latent blood in forensic science. Hemoglobin catalyzes the reaction between LMG and hydrogen peroxide, converting the colorless LMG into malachite green. Therefore, the appearance of a green color indicates the presence of blood
+Use at end
+Farm Use
+Malachite green has been used extensively by the aquaculture industries in Europe and throughout the world for many years in the absence of any authorized veterinary medicine alternative. It has proved particularly effective at protecting the welfare of farmed fish. The UK Government has taken scientific advice from independent advisory committees on the use of this product to ensure that the interests and health of consumers are protected. However, there are continuing concerns about its potential effect on human health.
+A veterinary medicine alternative to malachite green called "Pyceze" has now been developed in the UK with the assistance of funding from the salmon and trout industries and DEFRA. The active ingredient of this new product, "bronopol," was permitted by the EU for use in the treatment of fish for the first time in 2002. The Veterinary Medicines Directorate has granted a provisional marketing authorization for Pyceze and they are currently assessing the suitability of the product for full marketing authorization. In the meantime, Pyceze is available for the treatment of fish and their ova under veterinary prescription.
+
+These measurements were scaled to make the molar extinction coefficient match the value of 16219cm-1/M at 616.55nm.
+
+
+
+
+
+200mg Malachite Green (oxalate)
+wavelength [nm]	intensity	FWHM [nm]
+400.58	0.8997	--
+409.82	0.8733	--
+418.18	0.8757	--
+425.66	                                 0.8884	-- 1st Absorption Peak
+616.11	                                 0.7176	-- 2nd Absorption Peak
+
+
+
+
+
+300mg Malachite Green (oxalate)
+wavelength [nm]	intensity	FWHM [nm]
+409.82	0.8907	--
+416.86	0.8870	--
+430.93	                                0.9028	-- 1st Absorption Peak
+622.71	                                0.5965	-- 2nd Absorption Peak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+400mg Malachite Green (oxalate)
+wavelength [nm]	intensity	FWHM [nm]
+402.78	0.8271	--
+414.66	0.7737	--
+430.93	                                0.8225	-- 1st Absorption Peak
+619.63	                                0.3683	-- 2nd Absorption Peak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+500mg Malachite Green (oxalate)
+wavelength [nm]	intensity	FWHM [nm]
+401.46	0.8332	--
+414.22	0.8155	--
+430.93	                                    0.8751	-- 1st Absorption Peak
+618.75	                                    0.5593	-- 2nd Absorption Peak
+
+Sample [1] [100mg] pH {4.01} - 8/7/2016 10:05:44 AM
+wavelength [nm]	molar absorption coefficient [l/(mol*cm)]	FWHM [nm]
+616.55							18.5389
+Sample [2] [200mg] pH {4.01} - 8/7/2016 10:06:29 AM
+wavelength [nm]	molar absorption coefficient [l/(mol*cm)]	FWHM [nm]
+616.11							7.64815
+Sample [3] [300mg] pH {4.01} - 8/7/2016 10:07:03 AM
+wavelength [nm]	molar absorption coefficient [l/(mol*cm)]	FWHM [nm]
+622.71							4.05278
+Sample [5] [500mg] pH {4.01} - 8/7/2016 10:07:40 AM
+wavelength [nm]	molar absorption coefficient [l/(mol*cm)]	FWHM [nm]
+619.63							1.79144
+Sample [4] [400mg] pH {4.01} - 8/7/2016 10:08:13 AM
+wavelength [nm]	molar absorption coefficient [l/(mol*cm)]	FWHM [nm]
+616.55							2.1620	              12.77
+
+
+
+ Spectroscopic analysis is commonly carried out in solutions but solids and gases may also be studied. The presence of an analyte gives a response assumed to be proportional to the concentration. For accurate results, the instrument's response to the analyte in the unknown should be compared with the response to a standard; this is very similar to the use of calibration curves. The response (e.g., peak height) for a particular concentration is known as the response factor. 
+These measurements were scaled to make the molar extinction coefficient match the value of 148,900cm-1/M at 616.5nm 
+
+
+
