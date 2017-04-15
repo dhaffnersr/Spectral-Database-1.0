@@ -1,0 +1,128 @@
+4/15/2017
+Olive Oil Study using Acetone as a solvent
+Author David H Haffner Sr
+Original study conducted on 8/1/2016
+Files 1 thru 5 are the absorption and emission spectra of olive oil (EVOO Kirkland brand,) 
+In 90% acetone-water, the peak absorption wavelengths of chlorophyll a are 430 nm and 664 nm; peaks for chlorophyll b are 460 nm and 647 nm; peaks for chlorophyll c1 are 442 nm and 630 nm; peaks for chlorophyll c2 are 444 nm and 630 nm; peaks for chlorophyll d are 401 nm, 455 nm and 696 nm
+Pheophytin a b,c,d acetone 409 666 
+acetone/water 436 406 e 673 671 
+Pheophytin b b,c,d acetone 434 654 
+acetone/water - 436 435 - 661 658 
+Pheophorbide a b,c,d acetone 409 667 
+This is the data for the inverted maxima for both the emission spectra and absorption spectra:
+Molecular weight – 282.47- oleic acid
+Inverted absorption maxima (EVOO) in (Acetone)
+Evoo- [SP07-C0[4] Batch# {5}-[354 - 478nm]
+wavelength [nm]	intensity	FWHM [nm]
+364.7	                                0.1939	--
+381.02	                                0.1796	--
+395.47	                                0.1669	--
+408.05	                                0.1791	--
+424.36	                                0.2638	--
+429.96	                                0.1848	13.636- Chlorophyll [A]
+441.14	                                0.2610	5.8013- 
+450.47	                                0.3359	--- Chlorophyll [B]
+456.99	                                0.3328	--
+467.25	                                0.4032	--
+
+Emission
+1% - Olive Oil [evoo] in [2ml Acetone] - 8/1/2016 11:12:00 AM
+wavelength [nm]	absorbance	FWHM [nm]
+662.32	                                1.0000	7.1977 – Chlorophyll [A]
+
+Emission
+1% - Olive Oil [evoo] in [2ml Acetone] - 8/1/2016 11:15:36 AM
+wavelength [nm]	absorbance	FWHM [nm]
+641.91	                                1.0000	7.9626 – Chlorophyll [B]
+
+
+
+Inverted absorption maxima (EVOO) in (Acetone)
+Absorption Spectrum [Evoo] - [SP07-C0[4] Batch# {5}-[354 - 478nm]
+wavelength [nm]	intensity	FWHM [nm]
+364.7	0.1939	--
+381.02	0.1796	--
+395.47	0.1669	--
+408.05	0.1791	--
+424.36	0.2638	--
+429.96	                                  0.1848	13.636 – Chlorophyll [A]
+441.14	                                  0.2610	5.8013 – B-Carotene
+450.47	                                  0.3359	-- Chlorophyll [B]
+456.99	                                  0.3328	-- Chlorophyll [B]
+467.25	                                   0.4032	-- B-Carotene
+
+Inverted absorption maxima (EVOO) in (Acetone)
+Absorption Spectrum [Evoo] - [SP07-C0[4] Batch# {5}-[598 - 681nm]
+Absorption Spectrum [evoo] in [2ml Acetoe] - 8/1/2016 [598nm - 681nm]
+wavelength [nm]	intensity	FWHM [nm]
+604.75	                                0.2486	13.135
+618.26	0.2713	--
+626.19	                                0.1830	13.463 – Chlorophyll 
+633.18	0.2291	--
+638.77	0.1916	--
+668.14	                                0.0188	28.232 – B-Carotene
+676.53	0.0000	41.454
+Absorption Spectrum [evoo] in [2ml Acetone] - 8/1/2016 [598nm - 681nm]
+wavelength [nm]	transmittance	FWHM [nm]
+601.95	                                0.4080	--
+612.67	                                0.4207	10.214
+622.92	                                0.4314	4.6044
+641.1	                                0.4353	4.8808
+678.39	                                0.9457	1.9664
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inverted absorption maxima (EVOO) in (Acetone)
+Absorption Spectrum [Evoo] - [SP07-C0[4] Batch# {5}-[354 - 478nm]
+wavelength [nm]	molar absorption coefficient [l/(mol*cm)]	FWHM [nm]
+364.7	                                                                                       10.9600	--
+381.02	                                                                                       10.1500	--
+395.47	                                                                                          9.4300	--
+408.05	                                                                                        10.1200	--
+424.36	                                                                                        14.9000	--
+429.96	                    Chlorophyll [A]                                         10.4400	13.636
+441.14	                    B-Carotene                                                14.7500	5.8013
+450.47	                    Chlorophyll [B]                                          18.9800	--
+456.99	                    Chlorophyll [B]                                          18.8000	--
+467.25	                                                                                        22.7800	--
+Oleic Acid – Molecular Weight: 282.47 g-mol-1
+Chemical Formula: C18H34O2
+Density: 0.895 g/ml
+Soluble in Ethanol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Absorption Spectrum [Evoo] - [SP07-C0[4] Batch# {5}   [354 - 478nm]
+
+wavelength [nm]	molar absorption coefficient [l/(mol*cm)]	FWHM [nm]
+364.7	10.9600	--
+381.02	10.1500	--
+395.47	9.4300	--
+408.05	10.1200	--
+424.36	14.9000	--
+429.96	10.4400	13.636
+441.14	14.7500	5.8013
+450.47	18.9800	--
+456.99	18.8000	--
+467.25	22.7800	--
